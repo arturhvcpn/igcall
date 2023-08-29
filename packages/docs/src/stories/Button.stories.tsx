@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Button, ButtonProps, Icon } from '@ignite-ui/react'
+import { Button, ButtonProps, Icon } from '@igcall-ui/react'
 
 export default {
   title: 'Form/Button',

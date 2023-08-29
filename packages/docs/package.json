@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@igcall-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -29,10 +29,10 @@
     "vite": "^4.4.9"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@igcall-ui/eslint-config": "*",
+    "@igcall-ui/react": "*",
+    "@igcall-ui/tokens": "*",
+    "@igcall-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.3.2",
     "@storybook/addons": "^7.3.2",
     "polished": "^4.2.2",

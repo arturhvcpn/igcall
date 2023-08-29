@@ -1,6 +1,7 @@
 {
   "private": true,
-  "name": "@ignite-ui/eslint-config",
+  "version": "1.0.0",
+  "name": "@igcall-ui/eslint-config",
   "license": "MIT",
   "main": "index.js",
   "devDependencies": {

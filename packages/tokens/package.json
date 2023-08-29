@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@igcall-ui/tokens",
   "version": "1.0.0",
   "description": "Design System created by Artur Castro",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "Artur Castro",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
+    "@igcall-ui/eslint-config": "*",
+    "@igcall-ui/ts-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.1.6"
   }
