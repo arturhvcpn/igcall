@@ -28,9 +28,11 @@ const config = {
   docs: {
     autodocs: true,
   },
-  viteFinal: (config, { configType }) => {
+  viteFinal: (config, { configType }) =>  {
     if(configType === "PRODUCTION") config.base = '/igcall'
-  }
+
+    return config
+  },
 };
 
 export default config;
